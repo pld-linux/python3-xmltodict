@@ -8,7 +8,7 @@ Summary:	Make working with XML feel like you are working with JSON
 Summary(pl.UTF-8):	Praca z XML działająca jak z JSON-em
 Name:		python-xmltodict
 Version:	0.12.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/xmltodict/
